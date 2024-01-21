@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pc21-ionic/Área de Trabalho/C#/Studying-C-/C#.csproj",
-      "projectName": "C#",
-      "projectPath": "/home/pc21-ionic/Área de Trabalho/C#/Studying-C-/C#.csproj",
+      "projectUniqueName": "/home/pc21-ionic/Área de Trabalho/Studying-C-/Calculator/Calculadora.csproj",
+      "projectName": "Calculadora",
+      "projectPath": "/home/pc21-ionic/Área de Trabalho/Studying-C-/Calculator/Calculadora.csproj",
       "packagesPath": "/home/pc21-ionic/.nuget/packages/",
-      "outputPath": "/home/pc21-ionic/Área de Trabalho/C#/Studying-C-/obj/",
+      "outputPath": "/home/pc21-ionic/Área de Trabalho/Studying-C-/Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pc21-ionic/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/pc21-ionic/Área de Trabalho/C#/Studying-C-/C#.csproj": {}
+    "/home/pc21-ionic/Área de Trabalho/Studying-C-/Basics/C#.csproj": {}
   },
   "projects": {
-    "/home/pc21-ionic/Área de Trabalho/C#/Studying-C-/C#.csproj": {
+    "/home/pc21-ionic/Área de Trabalho/Studying-C-/Basics/C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pc21-ionic/Área de Trabalho/C#/Studying-C-/C#.csproj",
+        "projectUniqueName": "/home/pc21-ionic/Área de Trabalho/Studying-C-/Basics/C#.csproj",
         "projectName": "C#",
-        "projectPath": "/home/pc21-ionic/Área de Trabalho/C#/Studying-C-/C#.csproj",
+        "projectPath": "/home/pc21-ionic/Área de Trabalho/Studying-C-/Basics/C#.csproj",
         "packagesPath": "/home/pc21-ionic/.nuget/packages/",
-        "outputPath": "/home/pc21-ionic/Área de Trabalho/C#/Studying-C-/obj/",
+        "outputPath": "/home/pc21-ionic/Área de Trabalho/Studying-C-/Basics/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pc21-ionic/.nuget/NuGet/NuGet.Config"
