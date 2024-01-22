@@ -1,0 +1,15 @@
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/bin/Debug/net8.0/Stopwatch
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/obj/Debug/net8.0/Stopwatch.sourcelink.json
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/home/pc21-ionic/Área de Trabalho/Studying-C-/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll
