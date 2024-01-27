@@ -17,7 +17,6 @@
             Console.WriteLine("--------------------------");
             Console.WriteLine("Select the option: ");
 
-            int timeCount;
             int opcao;
 
             try
@@ -37,16 +36,10 @@
                     Console.WriteLine("System finished!");
                     break;
                 case 1:
-                    Console.WriteLine("How long seconds do you wanna to count? ");
-                    timeCount = int.Parse(Console.ReadLine());
-                    PreStart();
-                    Start(timeCount);
+                    CountSeconds();
                     break;
                 case 2:
-                    Console.WriteLine("How long minutes do you wanna to count? ");
-                    timeCount = int.Parse(Console.ReadLine());
-                    PreStart();
-                    Start(timeCount * 60);
+                    CountMInutes();
                     break;
                 default:
                     Console.WriteLine("Command not recognized");
@@ -54,6 +47,42 @@
                     Menu();
                     break;
             }
+        }
+        static void CountSeconds()
+        {
+            Console.WriteLine("How long seconds do you wanna to count? ");
+            int timeCount;
+            try
+            {
+                timeCount = int.Parse(Console.ReadLine());
+            }
+            catch (System.Exception)
+            {
+                Console.WriteLine("You must type a valid number");
+                Thread.Sleep(5);
+                CountSeconds();
+                throw;
+            }
+            PreStart();
+            Start(timeCount);
+        }
+        static void CountMInutes()
+        {
+            Console.WriteLine("How long Minutes do you wanna to count? ");
+            int timeCount;
+            try
+            {
+                timeCount = int.Parse(Console.ReadLine());
+            }
+            catch (System.Exception)
+            {
+                Console.WriteLine("You must type a valid number");
+                Thread.Sleep(5);
+                CountMInutes();
+                throw;
+            }
+            PreStart();
+            Start(timeCount*60);
         }
         static void PreStart()
         {
@@ -68,6 +97,8 @@
             Thread.Sleep(1000);
         }
         static void Start(int tim)
+
+
         {
             int time = tim;
             int currentTIme = 0;
