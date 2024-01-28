@@ -1,0 +1,15 @@
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/obj/Debug/net8.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfoInputs.cache
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfo.cs
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/obj/Debug/net8.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/obj/Debug/net8.0/TextEditor.sourcelink.json
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/bin/Debug/net8.0/TextEditor
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/bin/Debug/net8.0/TextEditor.deps.json
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/bin/Debug/net8.0/TextEditor.runtimeconfig.json
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/bin/Debug/net8.0/TextEditor.dll
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/bin/Debug/net8.0/TextEditor.pdb
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/obj/Debug/net8.0/TextEditor.dll
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/obj/Debug/net8.0/refint/TextEditor.dll
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/obj/Debug/net8.0/TextEditor.pdb
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/obj/Debug/net8.0/TextEditor.genruntimeconfig.cache
+/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/obj/Debug/net8.0/ref/TextEditor.dll
