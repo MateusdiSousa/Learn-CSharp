@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mateus/Área de Trabalho/Learn-CSharp/Stopwatch/Stopwatch.csproj": {}
+    "/home/mateus/Área de Trabalho/Learn-CSharp/Strings/Strings.csproj": {}
   },
   "projects": {
-    "/home/mateus/Área de Trabalho/Learn-CSharp/Stopwatch/Stopwatch.csproj": {
+    "/home/mateus/Área de Trabalho/Learn-CSharp/Strings/Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mateus/Área de Trabalho/Learn-CSharp/Stopwatch/Stopwatch.csproj",
-        "projectName": "Stopwatch",
-        "projectPath": "/home/mateus/Área de Trabalho/Learn-CSharp/Stopwatch/Stopwatch.csproj",
+        "projectUniqueName": "/home/mateus/Área de Trabalho/Learn-CSharp/Strings/Strings.csproj",
+        "projectName": "Strings",
+        "projectPath": "/home/mateus/Área de Trabalho/Learn-CSharp/Strings/Strings.csproj",
         "packagesPath": "/home/mateus/.nuget/packages/",
-        "outputPath": "/home/mateus/Área de Trabalho/Learn-CSharp/Stopwatch/obj/",
+        "outputPath": "/home/mateus/Área de Trabalho/Learn-CSharp/Strings/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mateus/.nuget/NuGet/NuGet.Config"
