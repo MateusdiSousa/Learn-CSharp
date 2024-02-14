@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mateus/Área de Trabalho/Learn-CSharp/TextEditor/TextEditor.csproj",
-      "projectName": "TextEditor",
-      "projectPath": "/home/mateus/Área de Trabalho/Learn-CSharp/TextEditor/TextEditor.csproj",
+      "projectUniqueName": "/home/mateus/Área de Trabalho/Learn-CSharp/Editor_HTML/Editor_HTML.csproj",
+      "projectName": "Editor_HTML",
+      "projectPath": "/home/mateus/Área de Trabalho/Learn-CSharp/Editor_HTML/Editor_HTML.csproj",
       "packagesPath": "/home/mateus/.nuget/packages/",
-      "outputPath": "/home/mateus/Área de Trabalho/Learn-CSharp/TextEditor/obj/",
+      "outputPath": "/home/mateus/Área de Trabalho/Learn-CSharp/Editor_HTML/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mateus/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9n7ae+fK1YeoEgw8gUx9YJ5NmwVbUuA2BmjV02WjDumTOQfAC0sgZ9RIoNYNTVe/Hb4BV6mBLG4GiVv0B6QfiA==",
+  "dgSpecHash": "MtXndc/IG4j+Y+tJ5/YRXd9pJeunMRIM6yo63Wq5jK3yRtOGRnClXuE80fPAie7Q/KNZahXf0Oy29mYe7NHGUw==",
   "success": true,
-  "projectFilePath": "/home/pc21-ionic/Área de Trabalho/Studying-C-/TextEditor/TextEditor.csproj",
+  "projectFilePath": "/home/mateus/Área de Trabalho/Learn-CSharp/TextEditor/TextEditor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
