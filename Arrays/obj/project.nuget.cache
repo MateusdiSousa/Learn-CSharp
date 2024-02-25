@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "od022k4F2IuAYGqAlReo25WY9peLf9vG6xc4MqXmuH2pIozWV/ovPyB0XljARr5Tqd4xBZ6dn8SbbI4jePEuKQ==",
+  "success": true,
+  "projectFilePath": "/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/Arrays.csproj",
+  "expectedPackageFiles": [
+    "/home/mateus/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.2/microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

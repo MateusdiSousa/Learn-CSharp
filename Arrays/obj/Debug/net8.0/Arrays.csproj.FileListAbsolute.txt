@@ -1,0 +1,15 @@
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/bin/Debug/net8.0/Arrays
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/mateus/Área de Trabalho/Learn-CSharp/Arrays/obj/Debug/net8.0/ref/Arrays.dll
