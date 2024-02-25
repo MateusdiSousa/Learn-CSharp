@@ -1,0 +1,15 @@
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/obj/Debug/net8.0/Date.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/obj/Debug/net8.0/Date.AssemblyInfoInputs.cache
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/obj/Debug/net8.0/Date.AssemblyInfo.cs
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/obj/Debug/net8.0/Date.csproj.CoreCompileInputs.cache
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/obj/Debug/net8.0/Date.sourcelink.json
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/bin/Debug/net8.0/Date
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/bin/Debug/net8.0/Date.deps.json
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/bin/Debug/net8.0/Date.runtimeconfig.json
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/bin/Debug/net8.0/Date.dll
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/bin/Debug/net8.0/Date.pdb
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/obj/Debug/net8.0/Date.dll
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/obj/Debug/net8.0/refint/Date.dll
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/obj/Debug/net8.0/Date.pdb
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/obj/Debug/net8.0/Date.genruntimeconfig.cache
+/home/mateus/Área de Trabalho/Learn-CSharp/Date/obj/Debug/net8.0/ref/Date.dll
