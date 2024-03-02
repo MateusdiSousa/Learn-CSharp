@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mateus/Área de Trabalho/Learn-CSharp/POO/POO.csproj": {}
+    "/home/mateus/Área de Trabalho/Learn-CSharp/POO/Activity01/POO.csproj": {}
   },
   "projects": {
-    "/home/mateus/Área de Trabalho/Learn-CSharp/POO/POO.csproj": {
+    "/home/mateus/Área de Trabalho/Learn-CSharp/POO/Activity01/POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mateus/Área de Trabalho/Learn-CSharp/POO/POO.csproj",
+        "projectUniqueName": "/home/mateus/Área de Trabalho/Learn-CSharp/POO/Activity01/POO.csproj",
         "projectName": "POO",
-        "projectPath": "/home/mateus/Área de Trabalho/Learn-CSharp/POO/POO.csproj",
+        "projectPath": "/home/mateus/Área de Trabalho/Learn-CSharp/POO/Activity01/POO.csproj",
         "packagesPath": "/home/mateus/.nuget/packages/",
-        "outputPath": "/home/mateus/Área de Trabalho/Learn-CSharp/POO/obj/",
+        "outputPath": "/home/mateus/Área de Trabalho/Learn-CSharp/POO/Activity01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mateus/.nuget/NuGet/NuGet.Config"

@@ -34,13 +34,12 @@ namespace POO
             System.Console.WriteLine(Description);
             if (this.Avaliable)
             {
-                System.Console.WriteLine("Listen now on platform");
+                System.Console.WriteLine("Listen now on platform\n");
             }
             else
             {
-                System.Console.WriteLine("This song is not avaliable");
+                System.Console.WriteLine("This song is not avaliable\n");
             }
-
         }
     }
 }
