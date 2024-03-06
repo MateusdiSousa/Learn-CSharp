@@ -1,8 +1,8 @@
 using POO;
 
-class Album
+public class Album
 {
-    public string Name { get; set; }
+    public string Name { get; set; } = "";
 
     private List<Music> musics = new List<Music>();
 

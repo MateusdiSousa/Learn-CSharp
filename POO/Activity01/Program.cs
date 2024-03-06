@@ -4,12 +4,14 @@
     {
         static void Main(String[] args)
         {
-            Music bohemianQueen = new Music("Bohemian Rhapsody", "Queen");
-            bohemianQueen.Duration = 257;
+            Band queen = new Band("Queen");
+
+            Music bohemianQueen = new Music("Bohemian Rhapsody", queen);
+            bohemianQueen.Duration = 57;
             bohemianQueen.Avaliable = true;
             bohemianQueen.Description = "The song Killet Queen belong to the band Queen";
             
-            Music music2 = new Music("Love of my life", "Queen");
+            Music music2 = new Music("Love of my life", queen);
             music2.Duration = 327;
             music2.Avaliable = false;
             music2.Description = "The song Killet Queen belong to the band Queen";
@@ -21,7 +23,9 @@
             queenAlbum.AddMusic(bohemianQueen);
             queenAlbum.AddMusic(music2);
 
-            queenAlbum.ShowMusics();
+            queen.addAlbum(queenAlbum);
+
+            queen.showDiscograph();
         }
     }
 }
